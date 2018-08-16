@@ -41,12 +41,7 @@ public class Ejercicio2
     {
         if (inicio >= a.length) {
             return fin = 0;
-        } else {
-            try {
-                //Delay Java
-                TimeUnit.SECONDS.sleep(1);
-            } catch (Exception e) {
-            }
+        } else { 
             return suma(inicio + 1, a, fin - a[inicio]) | suma(inicio + 1, a, fin);
         }
     }
