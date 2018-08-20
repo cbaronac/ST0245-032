@@ -1,18 +1,18 @@
 
 /**
- * Write a description of class Ejercicio1 here.
+ * Encontar el n-esimo termino de Fibonacci.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Camila Barona y Mariana Gómez) 
+ * @version (2018)
  */
 public class Ejercicio1
 {
-    public int fibonacci(int y)
+    public int fibonacci(int a)
     {
-       if (y==0 || (y==1)){
-           return y;
+       if ((a==0) || (a==1)){
+           return a;
         } else {
-            return fibonacci(y-1)+fibonacci(y-2);
+            return fibonacci(a-1)+fibonacci(a-2);
         }
     }
 }
