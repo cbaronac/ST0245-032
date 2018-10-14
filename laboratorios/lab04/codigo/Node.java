@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Node here.
+ * Objeto nodo para los ejercicios encontrados en el Lab 04.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Camila Barona - Mariana Gómez) 
+ * @version (2018)
  */
 public class Node
 {
