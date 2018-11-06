@@ -1,3 +1,9 @@
+/**
+ * Implementacion de un objeto Abeja con sus respectivas coordendas
+ * @author Camila Barona y Mariana Gómez
+ * @version 1
+ */
+
 public class Abeja {
     Double x;
     Double y;
