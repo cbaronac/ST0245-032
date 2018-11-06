@@ -161,6 +161,7 @@ public class PrevencionColisionesPrueba {
                             if(pila.size() > 1) {
                                 while(!pila.isEmpty()){
                                     Abeja abeja = pila.pop();
+                                    escritor.println(abeja);
                                 }
                             }
                         }
