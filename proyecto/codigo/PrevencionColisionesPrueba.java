@@ -15,7 +15,7 @@ import java.util.Stack;
  * @author Camila Barona y Mariana Gómez
  * @version 1
  */
-public class PrevencionColisionesPrueba
+public class DetectarColisiones
 {
     static Stack<Abeja> [][][] abejasConRiesgoDeColision;
     static int xSize = 0;
