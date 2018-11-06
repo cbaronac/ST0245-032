@@ -9,10 +9,10 @@ import java.lang.Math;
 import java.util.Stack;
 /**
  * Implementacion de un algoritmo para prevenir Colisiones
- * Estructura de datos utilizada: Arreglos
- * Complejidad: Peor Caso O(n al cubo) y Mejor caso O(n al cuadrado)
+ * Estructura de datos utilizada:Matriz tridimensional de Pilas
+ * Complejidad: Peor Caso O(n) 
  *
- * @author Mauricio Toro
+ * @author Camila Barona y Mariana Gómez
  * @version 1
  */
 public class PrevencionColisionesPrueba
