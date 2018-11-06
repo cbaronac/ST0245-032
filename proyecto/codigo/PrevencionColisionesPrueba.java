@@ -3,8 +3,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.PrintWriter;
 import java.io.IOException;
-//import javafx.geometry.Point3D;
-import java.util.ArrayList;
 import java.lang.Math;
 import java.util.Stack;
 /**
