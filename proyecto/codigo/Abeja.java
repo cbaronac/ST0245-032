@@ -1,3 +1,9 @@
+/**
+ * Objeto abeja con sus respectivas coordenadas
+ *
+ * @author Camila Barona y Mariana Gómez
+ * @version 1
+ */
 public class Abeja {
     Double x;
     Double y;
